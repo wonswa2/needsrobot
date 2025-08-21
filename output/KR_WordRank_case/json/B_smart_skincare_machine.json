@@ -1,0 +1,46 @@
+{
+  "filename": "smart_skincare_machine.json",
+  "case": "B",
+  "keywords": [
+    {
+      "word": "시작품",
+      "score": 2.22
+    },
+    {
+      "word": "피부",
+      "score": 2.214
+    },
+    {
+      "word": "시장은",
+      "score": 2.119
+    },
+    {
+      "word": "시술",
+      "score": 1.944
+    },
+    {
+      "word": "산업은",
+      "score": 1.879
+    },
+    {
+      "word": "플라즈마",
+      "score": 1.648
+    },
+    {
+      "word": "특징",
+      "score": 1.642
+    },
+    {
+      "word": "안티에이징",
+      "score": 1.581
+    },
+    {
+      "word": "미용",
+      "score": 1.558
+    },
+    {
+      "word": "연평균",
+      "score": 1.513
+    }
+  ]
+}

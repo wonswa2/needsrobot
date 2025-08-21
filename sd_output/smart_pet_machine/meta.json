@@ -1,0 +1,14 @@
+{
+  "file": "smart_pet_machine.json",
+  "mode": "base",
+  "seed": 123,
+  "size": [
+    640,
+    480
+  ],
+  "steps": 24,
+  "guidance": 6.0,
+  "pos_prompt": "A veterinary health assessment device that measures weight in real time, analyzes musculoskeletal and neural condition, and evaluates gait patterns and leg load distribution, (weight:1.2), (상태를:1.2), (health:1.2), 통해, 분석을, 위한, 시스템은, 동물의, product design sketch, industrial concept render, clean white background, isometric view, lineart emphasis, soft shadow",
+  "neg_prompt": "text, letters, words, numbers, watermark, logo, caption, signature, human, person, people, face, handsanime, cartoon, comic, blurry, low quality, noisy, cluttered background, presentation slide, document",
+  "loras": {}
+}

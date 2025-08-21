@@ -1,0 +1,46 @@
+{
+  "filename": "smart_tree_system.json",
+  "case": "H",
+  "keywords": [
+    {
+      "word": "삼육대학교 구분 발명의",
+      "score": 0.627
+    },
+    {
+      "word": "육성 5개년 종합계획",
+      "score": 0.549
+    },
+    {
+      "word": "접목한 스마트 도시농업",
+      "score": 0.538
+    },
+    {
+      "word": "유형 제품설계 공정설계",
+      "score": 0.453
+    },
+    {
+      "word": "가능하고 인공지능 기반",
+      "score": 0.444
+    },
+    {
+      "word": "up 기타 유형",
+      "score": 0.366
+    },
+    {
+      "word": "핵식기술로",
+      "score": 0.36
+    },
+    {
+      "word": "working",
+      "score": 0.308
+    },
+    {
+      "word": "진단 시스템",
+      "score": 0.307
+    },
+    {
+      "word": "정부의 제3차",
+      "score": 0.297
+    }
+  ]
+}

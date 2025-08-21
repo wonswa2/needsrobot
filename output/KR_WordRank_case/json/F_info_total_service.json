@@ -1,0 +1,46 @@
+{
+  "filename": "info_total_service.json",
+  "case": "F",
+  "keywords": [
+    {
+      "word": "인프라",
+      "score": 3.829
+    },
+    {
+      "word": "서비스",
+      "score": 2.91
+    },
+    {
+      "word": "현장",
+      "score": 2.689
+    },
+    {
+      "word": "기반",
+      "score": 2.382
+    },
+    {
+      "word": "제작",
+      "score": 2.227
+    },
+    {
+      "word": "가능한",
+      "score": 1.973
+    },
+    {
+      "word": "레이아웃",
+      "score": 1.962
+    },
+    {
+      "word": "마킹",
+      "score": 1.942
+    },
+    {
+      "word": "형상의",
+      "score": 1.86
+    },
+    {
+      "word": "창업",
+      "score": 1.67
+    }
+  ]
+}

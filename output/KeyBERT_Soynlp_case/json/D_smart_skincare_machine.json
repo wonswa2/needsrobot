@@ -1,0 +1,46 @@
+{
+  "filename": "smart_skincare_machine.json",
+  "case": "D",
+  "keywords": [
+    {
+      "word": "기술보유자 삼육대학교 구분",
+      "score": 0.663
+    },
+    {
+      "word": "개발 혁신실험실은",
+      "score": 0.586
+    },
+    {
+      "word": "유형 제품설계 공정설계",
+      "score": 0.502
+    },
+    {
+      "word": "working mock",
+      "score": 0.488
+    },
+    {
+      "word": "구분 발명의 명칭",
+      "score": 0.484
+    },
+    {
+      "word": "이용이 가능한 프로그램",
+      "score": 0.475
+    },
+    {
+      "word": "연구 성과를 보유",
+      "score": 0.465
+    },
+    {
+      "word": "의료기기 시장",
+      "score": 0.451
+    },
+    {
+      "word": "프로그램 pcb 제작",
+      "score": 0.443
+    },
+    {
+      "word": "전기자극부 광조사부를 개발",
+      "score": 0.429
+    }
+  ]
+}

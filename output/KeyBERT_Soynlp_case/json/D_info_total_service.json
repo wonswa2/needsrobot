@@ -1,0 +1,46 @@
+{
+  "filename": "info_total_service.json",
+  "case": "D",
+  "keywords": [
+    {
+      "word": "인프라 분야의 dx",
+      "score": 0.719
+    },
+    {
+      "word": "기술을 활용하 도시",
+      "score": 0.594
+    },
+    {
+      "word": "공사관리 공정관리 스마트",
+      "score": 0.523
+    },
+    {
+      "word": "experience 기반 bim",
+      "score": 0.499
+    },
+    {
+      "word": "시스템 개발",
+      "score": 0.492
+    },
+    {
+      "word": "제작 아이디어 기술",
+      "score": 0.461
+    },
+    {
+      "word": "플랫폼 스마트안전 dtx",
+      "score": 0.46
+    },
+    {
+      "word": "인프라의 위험도",
+      "score": 0.449
+    },
+    {
+      "word": "적용할 인터렉션 iot",
+      "score": 0.441
+    },
+    {
+      "word": "센서 모듈의 모니터링",
+      "score": 0.409
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "filename": "ai_som_devices.json",
+  "case": "E",
+  "keywords": [
+    {
+      "word": "IF",
+      "score": 5.619
+    },
+    {
+      "word": "뉴로모픽",
+      "score": 4.733
+    },
+    {
+      "word": "소자",
+      "score": 3.718
+    },
+    {
+      "word": "디바이스",
+      "score": 2.738
+    },
+    {
+      "word": "필요",
+      "score": 2.267
+    },
+    {
+      "word": "인공",
+      "score": 2.115
+    },
+    {
+      "word": "구현",
+      "score": 1.976
+    },
+    {
+      "word": "시작품",
+      "score": 1.975
+    },
+    {
+      "word": "창업",
+      "score": 1.964
+    },
+    {
+      "word": "연구",
+      "score": 1.9
+    }
+  ]
+}

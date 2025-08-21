@@ -1,0 +1,46 @@
+{
+  "filename": "smart_tree_system.json",
+  "case": "F",
+  "keywords": [
+    {
+      "word": "촉진형",
+      "score": 2.819
+    },
+    {
+      "word": "상태",
+      "score": 2.775
+    },
+    {
+      "word": "부정근",
+      "score": 2.516
+    },
+    {
+      "word": "가능한",
+      "score": 2.381
+    },
+    {
+      "word": "실내",
+      "score": 2.332
+    },
+    {
+      "word": "조절",
+      "score": 2.33
+    },
+    {
+      "word": "배양액",
+      "score": 2.097
+    },
+    {
+      "word": "필요",
+      "score": 2.052
+    },
+    {
+      "word": "장치",
+      "score": 1.853
+    },
+    {
+      "word": "식물",
+      "score": 1.483
+    }
+  ]
+}

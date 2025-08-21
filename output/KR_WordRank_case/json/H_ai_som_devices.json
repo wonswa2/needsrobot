@@ -1,0 +1,46 @@
+{
+  "filename": "ai_som_devices.json",
+  "case": "H",
+  "keywords": [
+    {
+      "word": "IF",
+      "score": 4.84
+    },
+    {
+      "word": "뉴로모픽",
+      "score": 4.157
+    },
+    {
+      "word": "소자",
+      "score": 2.662
+    },
+    {
+      "word": "JCR",
+      "score": 2.331
+    },
+    {
+      "word": "필요",
+      "score": 2.071
+    },
+    {
+      "word": "시작품",
+      "score": 2.019
+    },
+    {
+      "word": "연구",
+      "score": 2.0
+    },
+    {
+      "word": "컴퓨팅",
+      "score": 1.943
+    },
+    {
+      "word": "인공",
+      "score": 1.927
+    },
+    {
+      "word": "구현",
+      "score": 1.905
+    }
+  ]
+}

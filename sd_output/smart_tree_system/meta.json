@@ -1,0 +1,14 @@
+{
+  "file": "smart_tree_system.json",
+  "mode": "base",
+  "seed": 123,
+  "size": [
+    640,
+    480
+  ],
+  "steps": 24,
+  "guidance": 6.0,
+  "pos_prompt": "A veterinary health assessment device that measures weight in real time, analyzes musculoskeletal and neural condition, and evaluates gait patterns and leg load distribution, (상태를:1.2), (통해:1.2), (시스템은:1.2), 순화된, 농장, 환경을, 목표로, 하고, product design sketch, industrial concept render, clean white background, isometric view, lineart emphasis, soft shadow",
+  "neg_prompt": "text, letters, words, numbers, watermark, logo, caption, signature, human, person, people, face, handsanime, cartoon, comic, blurry, low quality, noisy, cluttered background, presentation slide, document",
+  "loras": {}
+}

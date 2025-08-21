@@ -1,0 +1,66 @@
+{
+  "filename": "smart_skincare_machine.json",
+  "case": "D",
+  "keywords": [
+    {
+      "word": "피부",
+      "score": 5.698
+    },
+    {
+      "word": "이용한",
+      "score": 3.99
+    },
+    {
+      "word": "기타",
+      "score": 3.767
+    },
+    {
+      "word": "시술",
+      "score": 3.47
+    },
+    {
+      "word": "플라즈마와",
+      "score": 3.241
+    },
+    {
+      "word": "2013년",
+      "score": 3.135
+    },
+    {
+      "word": "연구",
+      "score": 2.893
+    },
+    {
+      "word": "안티에이징",
+      "score": 2.842
+    },
+    {
+      "word": "디바이스",
+      "score": 2.775
+    },
+    {
+      "word": "안면",
+      "score": 2.707
+    },
+    {
+      "word": "장치",
+      "score": 2.69
+    },
+    {
+      "word": "10",
+      "score": 2.593
+    },
+    {
+      "word": "규모에서",
+      "score": 2.591
+    },
+    {
+      "word": "산업은",
+      "score": 2.583
+    },
+    {
+      "word": "제작",
+      "score": 2.573
+    }
+  ]
+}

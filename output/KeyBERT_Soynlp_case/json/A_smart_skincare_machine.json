@@ -1,0 +1,46 @@
+{
+  "filename": "smart_skincare_machine.json",
+  "case": "A",
+  "keywords": [
+    {
+      "word": "혁신실험실은",
+      "score": 0.635
+    },
+    {
+      "word": "기술보유자",
+      "score": 0.538
+    },
+    {
+      "word": "제품설계",
+      "score": 0.513
+    },
+    {
+      "word": "컨셉디자인",
+      "score": 0.491
+    },
+    {
+      "word": "인체공학적인",
+      "score": 0.461
+    },
+    {
+      "word": "기술이전",
+      "score": 0.459
+    },
+    {
+      "word": "산업은",
+      "score": 0.452
+    },
+    {
+      "word": "발명의",
+      "score": 0.448
+    },
+    {
+      "word": "창업",
+      "score": 0.447
+    },
+    {
+      "word": "설계",
+      "score": 0.446
+    }
+  ]
+}

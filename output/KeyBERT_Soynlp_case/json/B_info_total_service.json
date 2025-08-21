@@ -1,0 +1,46 @@
+{
+  "filename": "info_total_service.json",
+  "case": "B",
+  "keywords": [
+    {
+      "word": "인프라 분야의 dx",
+      "score": 0.719
+    },
+    {
+      "word": "기반 bim 기술을",
+      "score": 0.689
+    },
+    {
+      "word": "인프라 정보 토탈",
+      "score": 0.681
+    },
+    {
+      "word": "스마트 인프라 기술",
+      "score": 0.68
+    },
+    {
+      "word": "프라 기술 구현을",
+      "score": 0.676
+    },
+    {
+      "word": "인프라 정보 자동",
+      "score": 0.675
+    },
+    {
+      "word": "스마트 프라 기술",
+      "score": 0.668
+    },
+    {
+      "word": "스마트 인프라",
+      "score": 0.663
+    },
+    {
+      "word": "dx 기반의 시공현장",
+      "score": 0.66
+    },
+    {
+      "word": "툴킷장치 인프라 분야의",
+      "score": 0.656
+    }
+  ]
+}

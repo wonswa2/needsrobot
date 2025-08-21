@@ -1,0 +1,46 @@
+{
+  "filename": "smart_skincare_machine.json",
+  "case": "H",
+  "keywords": [
+    {
+      "word": "기술보유자 삼육대학교 구분",
+      "score": 0.663
+    },
+    {
+      "word": "있는 의료기기 컨셉디자인",
+      "score": 0.542
+    },
+    {
+      "word": "프로그램 pcb 제작",
+      "score": 0.443
+    },
+    {
+      "word": "개발 핸드 헬드",
+      "score": 0.442
+    },
+    {
+      "word": "구분 발명의",
+      "score": 0.438
+    },
+    {
+      "word": "구분 제품 사진",
+      "score": 0.408
+    },
+    {
+      "word": "목적 구현 마케팅",
+      "score": 0.378
+    },
+    {
+      "word": "택1 working mock",
+      "score": 0.374
+    },
+    {
+      "word": "피부주름치료에 특화 개발",
+      "score": 0.351
+    },
+    {
+      "word": "2020년에는 54억 시작품",
+      "score": 0.328
+    }
+  ]
+}

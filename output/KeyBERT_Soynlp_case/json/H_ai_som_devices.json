@@ -1,0 +1,46 @@
+{
+  "filename": "ai_som_devices.json",
+  "case": "H",
+  "keywords": [
+    {
+      "word": "프로세서에 대한 연구",
+      "score": 0.682
+    },
+    {
+      "word": "인공지능 기술은 세계적으로",
+      "score": 0.531
+    },
+    {
+      "word": "딥러닝 10 2025",
+      "score": 0.474
+    },
+    {
+      "word": "알고리즘을 주제로 경찰",
+      "score": 0.396
+    },
+    {
+      "word": "learning의 핵심",
+      "score": 0.394
+    },
+    {
+      "word": "생물 탐지 270",
+      "score": 0.349
+    },
+    {
+      "word": "materials 2021",
+      "score": 0.349
+    },
+    {
+      "word": "edge device 시작품",
+      "score": 0.348
+    },
+    {
+      "word": "확산 예측 시스템",
+      "score": 0.286
+    },
+    {
+      "word": "목적 구현 마케팅",
+      "score": 0.277
+    }
+  ]
+}

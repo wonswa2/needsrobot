@@ -1,0 +1,86 @@
+{
+  "filename": "smart_pet_machine.json",
+  "case": "G",
+  "keywords": [
+    {
+      "word": "체중",
+      "score": 4.587
+    },
+    {
+      "word": "분석",
+      "score": 3.473
+    },
+    {
+      "word": "데이터",
+      "score": 2.377
+    },
+    {
+      "word": "건강",
+      "score": 1.453
+    },
+    {
+      "word": "측정",
+      "score": 1.361
+    },
+    {
+      "word": "성분",
+      "score": 1.355
+    },
+    {
+      "word": "장치",
+      "score": 1.326
+    },
+    {
+      "word": "반려",
+      "score": 1.296
+    },
+    {
+      "word": "시스템",
+      "score": 1.283
+    },
+    {
+      "word": "근골격계",
+      "score": 1.271
+    },
+    {
+      "word": "분포",
+      "score": 1.213
+    },
+    {
+      "word": "보행",
+      "score": 1.174
+    },
+    {
+      "word": "다리에",
+      "score": 1.079
+    },
+    {
+      "word": "활용",
+      "score": 1.071
+    },
+    {
+      "word": "평가하는",
+      "score": 0.994
+    },
+    {
+      "word": "필요",
+      "score": 0.964
+    },
+    {
+      "word": "동물",
+      "score": 0.893
+    },
+    {
+      "word": "연구",
+      "score": 0.871
+    },
+    {
+      "word": "상태",
+      "score": 0.821
+    },
+    {
+      "word": "시작품",
+      "score": 0.806
+    }
+  ]
+}

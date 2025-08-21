@@ -1,0 +1,46 @@
+{
+  "filename": "smart_pet_machine.json",
+  "case": "F",
+  "keywords": [
+    {
+      "word": "체중",
+      "score": 5.396
+    },
+    {
+      "word": "분석",
+      "score": 4.447
+    },
+    {
+      "word": "데이터",
+      "score": 2.682
+    },
+    {
+      "word": "반려",
+      "score": 2.286
+    },
+    {
+      "word": "근골격계",
+      "score": 1.9
+    },
+    {
+      "word": "신경",
+      "score": 1.719
+    },
+    {
+      "word": "분포",
+      "score": 1.691
+    },
+    {
+      "word": "측정",
+      "score": 1.617
+    },
+    {
+      "word": "보행",
+      "score": 1.584
+    },
+    {
+      "word": "성분",
+      "score": 1.515
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "file": "ai_som_devices.json",
+  "mode": "base",
+  "seed": 123,
+  "size": [
+    640,
+    480
+  ],
+  "steps": 24,
+  "guidance": 6.0,
+  "pos_prompt": "A veterinary health assessment device that measures weight in real time, analyzes musculoskeletal and neural condition, and evaluates gait patterns and leg load distribution, (디바이스는:1.2), (통해:1.2), (뉴로모픽:1.2), 인공, 기능을, Journal, of, IF, product design sketch, industrial concept render, clean white background, isometric view, lineart emphasis, soft shadow",
+  "neg_prompt": "text, letters, words, numbers, watermark, logo, caption, signature, human, person, people, face, handsanime, cartoon, comic, blurry, low quality, noisy, cluttered background, presentation slide, document",
+  "loras": {}
+}

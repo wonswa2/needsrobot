@@ -1,0 +1,66 @@
+{
+  "filename": "smart_tree_system.json",
+  "case": "D",
+  "keywords": [
+    {
+      "word": "실내",
+      "score": 4.343
+    },
+    {
+      "word": "순화",
+      "score": 3.974
+    },
+    {
+      "word": "도시",
+      "score": 3.93
+    },
+    {
+      "word": "기타",
+      "score": 3.761
+    },
+    {
+      "word": "촉진형",
+      "score": 3.749
+    },
+    {
+      "word": "농장",
+      "score": 3.487
+    },
+    {
+      "word": "가능한",
+      "score": 3.332
+    },
+    {
+      "word": "배양액",
+      "score": 3.266
+    },
+    {
+      "word": "상태",
+      "score": 3.237
+    },
+    {
+      "word": "퍼머컬쳐Permaculture",
+      "score": 3.17
+    },
+    {
+      "word": "조절",
+      "score": 3.125
+    },
+    {
+      "word": "Permanent",
+      "score": 3.093
+    },
+    {
+      "word": "부정근",
+      "score": 3.084
+    },
+    {
+      "word": "식물",
+      "score": 3.061
+    },
+    {
+      "word": "필요",
+      "score": 2.874
+    }
+  ]
+}

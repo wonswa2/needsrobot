@@ -1,0 +1,46 @@
+{
+  "filename": "smart_pet_machine.json",
+  "case": "A",
+  "keywords": [
+    {
+      "word": "체중성분분석",
+      "score": 0.599
+    },
+    {
+      "word": "수의학",
+      "score": 0.514
+    },
+    {
+      "word": "동물용",
+      "score": 0.483
+    },
+    {
+      "word": "반려동물용",
+      "score": 0.48
+    },
+    {
+      "word": "수의사의",
+      "score": 0.474
+    },
+    {
+      "word": "분석의",
+      "score": 0.461
+    },
+    {
+      "word": "동물",
+      "score": 0.461
+    },
+    {
+      "word": "인공지능",
+      "score": 0.457
+    },
+    {
+      "word": "데이터가",
+      "score": 0.456
+    },
+    {
+      "word": "분석",
+      "score": 0.455
+    }
+  ]
+}

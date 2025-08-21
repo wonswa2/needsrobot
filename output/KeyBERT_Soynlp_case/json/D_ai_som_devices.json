@@ -1,0 +1,46 @@
+{
+  "filename": "ai_som_devices.json",
+  "case": "D",
+  "keywords": [
+    {
+      "word": "프로세서에 대한 연구",
+      "score": 0.682
+    },
+    {
+      "word": "nature electronics",
+      "score": 0.518
+    },
+    {
+      "word": "구분 발명의 명칭",
+      "score": 0.507
+    },
+    {
+      "word": "유형 제품설계 공정설계",
+      "score": 0.498
+    },
+    {
+      "word": "딥러닝 10 2025",
+      "score": 0.474
+    },
+    {
+      "word": "기술은 세계적으로 확산",
+      "score": 0.438
+    },
+    {
+      "word": "up 기타 유형",
+      "score": 0.429
+    },
+    {
+      "word": "현재 연구는 단위",
+      "score": 0.423
+    },
+    {
+      "word": "구현 advanced materials",
+      "score": 0.422
+    },
+    {
+      "word": "등록번호 센서 융합과",
+      "score": 0.42
+    }
+  ]
+}

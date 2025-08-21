@@ -1,0 +1,86 @@
+{
+  "filename": "ai_som_devices.json",
+  "case": "G",
+  "keywords": [
+    {
+      "word": "IF",
+      "score": 3.586
+    },
+    {
+      "word": "소자",
+      "score": 2.555
+    },
+    {
+      "word": "뉴로모픽",
+      "score": 2.424
+    },
+    {
+      "word": "디바이스",
+      "score": 2.061
+    },
+    {
+      "word": "창업",
+      "score": 1.891
+    },
+    {
+      "word": "제작",
+      "score": 1.472
+    },
+    {
+      "word": "시작품",
+      "score": 1.429
+    },
+    {
+      "word": "필요",
+      "score": 1.352
+    },
+    {
+      "word": "AI",
+      "score": 1.27
+    },
+    {
+      "word": "활용",
+      "score": 1.159
+    },
+    {
+      "word": "인공",
+      "score": 1.093
+    },
+    {
+      "word": "기반",
+      "score": 1.087
+    },
+    {
+      "word": "산업",
+      "score": 1.076
+    },
+    {
+      "word": "SOM",
+      "score": 1.043
+    },
+    {
+      "word": "연구",
+      "score": 1.023
+    },
+    {
+      "word": "보유",
+      "score": 1.017
+    },
+    {
+      "word": "JC",
+      "score": 1.0
+    },
+    {
+      "word": "구현",
+      "score": 0.982
+    },
+    {
+      "word": "실험실",
+      "score": 0.931
+    },
+    {
+      "word": "제품",
+      "score": 0.847
+    }
+  ]
+}

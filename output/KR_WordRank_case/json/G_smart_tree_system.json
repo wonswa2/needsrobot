@@ -1,0 +1,70 @@
+{
+  "filename": "smart_tree_system.json",
+  "case": "G",
+  "keywords": [
+    {
+      "word": "실내",
+      "score": 3.117
+    },
+    {
+      "word": "장치",
+      "score": 1.916
+    },
+    {
+      "word": "가능한",
+      "score": 1.549
+    },
+    {
+      "word": "필요",
+      "score": 1.306
+    },
+    {
+      "word": "생육",
+      "score": 1.295
+    },
+    {
+      "word": "부정",
+      "score": 1.227
+    },
+    {
+      "word": "AI",
+      "score": 1.108
+    },
+    {
+      "word": "조절",
+      "score": 1.079
+    },
+    {
+      "word": "배양",
+      "score": 1.062
+    },
+    {
+      "word": "식물",
+      "score": 0.993
+    },
+    {
+      "word": "수경삽목",
+      "score": 0.978
+    },
+    {
+      "word": "통해",
+      "score": 0.911
+    },
+    {
+      "word": "도시",
+      "score": 0.686
+    },
+    {
+      "word": "생산",
+      "score": 0.602
+    },
+    {
+      "word": "상태",
+      "score": 0.461
+    },
+    {
+      "word": "확보",
+      "score": 0.349
+    }
+  ]
+}

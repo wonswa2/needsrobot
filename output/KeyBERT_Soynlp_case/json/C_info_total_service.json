@@ -1,0 +1,46 @@
+{
+  "filename": "info_total_service.json",
+  "case": "C",
+  "keywords": [
+    {
+      "word": "인프라 분야의 dx",
+      "score": 0.719
+    },
+    {
+      "word": "툴킷장치 인프라",
+      "score": 0.59
+    },
+    {
+      "word": "창업 실험실은 인프라",
+      "score": 0.579
+    },
+    {
+      "word": "기반 bim",
+      "score": 0.553
+    },
+    {
+      "word": "정보 토탈",
+      "score": 0.547
+    },
+    {
+      "word": "위한 통합관리",
+      "score": 0.529
+    },
+    {
+      "word": "공사관리 공정관리 스마트",
+      "score": 0.523
+    },
+    {
+      "word": "패키지소프트웨어 개발 서비스",
+      "score": 0.515
+    },
+    {
+      "word": "experience 기반 bim",
+      "score": 0.499
+    },
+    {
+      "word": "인프라의 위험도",
+      "score": 0.449
+    }
+  ]
+}

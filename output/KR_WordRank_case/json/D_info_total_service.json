@@ -1,0 +1,66 @@
+{
+  "filename": "info_total_service.json",
+  "case": "D",
+  "keywords": [
+    {
+      "word": "인프라",
+      "score": 8.722
+    },
+    {
+      "word": "현장",
+      "score": 8.599
+    },
+    {
+      "word": "기반",
+      "score": 5.175
+    },
+    {
+      "word": "마킹",
+      "score": 4.297
+    },
+    {
+      "word": "서비스",
+      "score": 4.042
+    },
+    {
+      "word": "가능한",
+      "score": 3.747
+    },
+    {
+      "word": "창업",
+      "score": 3.742
+    },
+    {
+      "word": "레이아웃",
+      "score": 3.7
+    },
+    {
+      "word": "기타",
+      "score": 3.658
+    },
+    {
+      "word": "제작",
+      "score": 3.628
+    },
+    {
+      "word": "DX",
+      "score": 3.53
+    },
+    {
+      "word": "스마트안전",
+      "score": 3.363
+    },
+    {
+      "word": "솔루션을",
+      "score": 3.062
+    },
+    {
+      "word": "시작품",
+      "score": 2.967
+    },
+    {
+      "word": "Twin",
+      "score": 2.894
+    }
+  ]
+}

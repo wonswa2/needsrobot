@@ -1,0 +1,46 @@
+{
+  "filename": "ai_som_devices.json",
+  "case": "A",
+  "keywords": [
+    {
+      "word": "기술보유자",
+      "score": 0.536
+    },
+    {
+      "word": "기술의",
+      "score": 0.525
+    },
+    {
+      "word": "프로세스용",
+      "score": 0.513
+    },
+    {
+      "word": "컴퓨팅",
+      "score": 0.509
+    },
+    {
+      "word": "인공지능",
+      "score": 0.503
+    },
+    {
+      "word": "제품설계",
+      "score": 0.489
+    },
+    {
+      "word": "인공지능을",
+      "score": 0.483
+    },
+    {
+      "word": "칩과의",
+      "score": 0.473
+    },
+    {
+      "word": "발명의",
+      "score": 0.465
+    },
+    {
+      "word": "연구실",
+      "score": 0.463
+    }
+  ]
+}

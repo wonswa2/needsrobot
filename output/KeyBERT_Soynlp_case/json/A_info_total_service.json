@@ -1,0 +1,46 @@
+{
+  "filename": "info_total_service.json",
+  "case": "A",
+  "keywords": [
+    {
+      "word": "인프라의",
+      "score": 0.586
+    },
+    {
+      "word": "인프라",
+      "score": 0.569
+    },
+    {
+      "word": "공학기술",
+      "score": 0.525
+    },
+    {
+      "word": "기술보유자",
+      "score": 0.493
+    },
+    {
+      "word": "통합관리",
+      "score": 0.484
+    },
+    {
+      "word": "기술적",
+      "score": 0.479
+    },
+    {
+      "word": "기술과",
+      "score": 0.449
+    },
+    {
+      "word": "공학박사",
+      "score": 0.435
+    },
+    {
+      "word": "기반",
+      "score": 0.432
+    },
+    {
+      "word": "기반의",
+      "score": 0.43
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "filename": "info_total_service.json",
+  "case": "G",
+  "keywords": [
+    {
+      "word": "인프라",
+      "score": 2.749
+    },
+    {
+      "word": "현장",
+      "score": 2.243
+    },
+    {
+      "word": "기반",
+      "score": 2.128
+    },
+    {
+      "word": "서비스",
+      "score": 2.052
+    },
+    {
+      "word": "가능한",
+      "score": 1.918
+    },
+    {
+      "word": "제작",
+      "score": 1.399
+    },
+    {
+      "word": "위한",
+      "score": 1.356
+    },
+    {
+      "word": "시공",
+      "score": 1.258
+    },
+    {
+      "word": "실험",
+      "score": 1.167
+    },
+    {
+      "word": "창업",
+      "score": 1.141
+    },
+    {
+      "word": "센서",
+      "score": 1.109
+    },
+    {
+      "word": "사업",
+      "score": 1.082
+    },
+    {
+      "word": "시작품",
+      "score": 0.887
+    },
+    {
+      "word": "스마트",
+      "score": 0.877
+    },
+    {
+      "word": "적용",
+      "score": 0.875
+    },
+    {
+      "word": "모듈",
+      "score": 0.861
+    },
+    {
+      "word": "BIM",
+      "score": 0.825
+    },
+    {
+      "word": "구조물",
+      "score": 0.806
+    },
+    {
+      "word": "정보",
+      "score": 0.755
+    },
+    {
+      "word": "솔루션",
+      "score": 0.733
+    }
+  ]
+}

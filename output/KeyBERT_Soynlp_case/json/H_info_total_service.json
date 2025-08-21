@@ -1,0 +1,46 @@
+{
+  "filename": "info_total_service.json",
+  "case": "H",
+  "keywords": [
+    {
+      "word": "인프라 분야의 dx",
+      "score": 0.719
+    },
+    {
+      "word": "공사관리 공정관리 스마트",
+      "score": 0.523
+    },
+    {
+      "word": "패키지소프트웨어 개발 서비스",
+      "score": 0.515
+    },
+    {
+      "word": "experience 기반 bim",
+      "score": 0.499
+    },
+    {
+      "word": "아이디어 기술",
+      "score": 0.443
+    },
+    {
+      "word": "센서 모듈 개발",
+      "score": 0.438
+    },
+    {
+      "word": "위험관리 모니터링 시스템",
+      "score": 0.395
+    },
+    {
+      "word": "bim 디지털센싱 빅데",
+      "score": 0.372
+    },
+    {
+      "word": "서비스 사업자와 협업을",
+      "score": 0.347
+    },
+    {
+      "word": "도시",
+      "score": 0.333
+    }
+  ]
+}

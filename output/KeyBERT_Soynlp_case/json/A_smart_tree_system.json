@@ -1,0 +1,46 @@
+{
+  "filename": "smart_tree_system.json",
+  "case": "A",
+  "keywords": [
+    {
+      "word": "기술개발",
+      "score": 0.604
+    },
+    {
+      "word": "도시농업에",
+      "score": 0.527
+    },
+    {
+      "word": "도시농업을",
+      "score": 0.521
+    },
+    {
+      "word": "도시농업",
+      "score": 0.505
+    },
+    {
+      "word": "창업",
+      "score": 0.492
+    },
+    {
+      "word": "기술보유자",
+      "score": 0.488
+    },
+    {
+      "word": "종합계획",
+      "score": 0.484
+    },
+    {
+      "word": "생태교육과",
+      "score": 0.468
+    },
+    {
+      "word": "제작",
+      "score": 0.455
+    },
+    {
+      "word": "개발과",
+      "score": 0.447
+    }
+  ]
+}

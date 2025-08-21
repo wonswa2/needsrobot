@@ -1,0 +1,46 @@
+{
+  "filename": "ai_som_devices.json",
+  "case": "G",
+  "keywords": [
+    {
+      "word": "개발 som 기술을",
+      "score": 0.708
+    },
+    {
+      "word": "등록번호 센서 융합과",
+      "score": 0.596
+    },
+    {
+      "word": "advanced materials 2021",
+      "score": 0.574
+    },
+    {
+      "word": "대표특허 기반유해",
+      "score": 0.524
+    },
+    {
+      "word": "삼육대학교 구분",
+      "score": 0.497
+    },
+    {
+      "word": "미국의 대학 기업",
+      "score": 0.488
+    },
+    {
+      "word": "주문형 제품으로",
+      "score": 0.484
+    },
+    {
+      "word": "확산 예측 시스템",
+      "score": 0.477
+    },
+    {
+      "word": "웨어러블 디바이스 자율주행",
+      "score": 0.469
+    },
+    {
+      "word": "폭넓게 활용 컨셉디자인",
+      "score": 0.467
+    }
+  ]
+}
